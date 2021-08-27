@@ -4,10 +4,10 @@
 
 Iniciante | Desenvolvedor | Estudante | .NET | ASP.NET Core
 
-**Descrição**
+<h3> **Descrição** </h3>
 Crie um serviço RESTful com o ASP.NET Core que dá suporte a operações de CRUD (criação, leitura, atualização e exclusão).
 
-**Objetivos de aprendizagem**
+<h3> **Objetivos de aprendizagem** </h3>
 
 Neste módulo, você vai:
 
@@ -16,13 +16,13 @@ Criar um banco de dados em memória para manter produtos.
 Adicionar suporte para operações CRUD.
 Testar métodos de ação de API Web no shell de comando.
 
-Pré-requisitos
+<h3> **Pré-requisitos** </h3>
 Capacidade de escrever em C# no nível iniciante
 Instalações locais do SDK do .NET e do Visual Studio Code
 Extensão do C# para Visual Studio Code
 Experiência com o uso da linha de comando
 
-Este módulo faz parte destes roteiros de aprendizagem
+<h3>Este módulo faz parte destes roteiros de aprendizagem</h3>
 Criar aplicativos .NET com C#
 
 | Módulo                                          | Tempo  | Status |
