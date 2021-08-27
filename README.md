@@ -33,8 +33,8 @@ Iniciante | Desenvolvedor | Estudante | .NET | ASP.NET Core
 | Módulo                                          | Tempo  | Status |
 |-------------------------------------------------|--------|--------|
 | Introdução                                      | 1 min  | ✔️     |
-| REST no ASP.NET Core                            | 3 min  | 🚧     |
-| Exercício – Criar um projeto de API Web         | 8 min  | 🚧     |
+| REST no ASP.NET Core                            | 3 min  | ✔️     |
+| Exercício – Criar um projeto de API Web         | 8 min  | ✔️     |
 | Controladores da API Web do ASP.NET Core        | 4 min  | 🚧     |
 | Exercício – Adicionar um armazenamento de dados | 4 min  | 🚧     |
 | Exercício – Adicionar um controlador            | 5 min  | 🚧     |
