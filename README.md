@@ -30,17 +30,17 @@ Iniciante | Desenvolvedor | Estudante | .NET | ASP.NET Core
 
 > Criar aplicativos .NET com C#
 
-| Módulo                                          | Tempo  | Status |
-|-------------------------------------------------|--------|--------|
-| Introdução                                      | 1 min  | ✔️     |
-| REST no ASP.NET Core                            | 3 min  | ✔️     |
-| Exercício – Criar um projeto de API Web         | 8 min  | ✔️     |
-| Controladores da API Web do ASP.NET Core        | 4 min  | 🚧     |
-| Exercício – Adicionar um armazenamento de dados | 4 min  | 🚧     |
-| Exercício – Adicionar um controlador            | 5 min  | 🚧     |
-| Ações CRUD no ASP.NET Core                      | 5 min  | 🚧     |
-| Exercício – implementar operações CRUD          | 10 min | 🚧     |
-| Resumo                                          | 1 min  | 🚧     |
+| Módulo                                                                                                                                                | Tempo  | Status |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
+| [Introdução](https://docs.microsoft.com/pt-br/learn/modules/build-web-api-aspnet-core/1-introduction)                                                 | 1 min  | ✔️      |
+| [REST no ASP.NET Core](https://docs.microsoft.com/pt-br/learn/modules/build-web-api-aspnet-core/2-what-is-rest-in-aspnet)                             | 3 min  | ✔️      |
+| [Exercício – Criar um projeto de API Web](https://docs.microsoft.com/pt-br/learn/modules/build-web-api-aspnet-core/3-exercise-create-web-api)         | 8 min  | ✔️      |
+| [Controladores da API Web do ASP.NET Core](https://docs.microsoft.com/pt-br/learn/modules/build-web-api-aspnet-core/4-aspnet-controllers)             | 4 min  | 🚧      |
+| [Exercício – Adicionar um armazenamento de dados](https://docs.microsoft.com/pt-br/learn/modules/build-web-api-aspnet-core/5-exercise-add-data-store) | 4 min  | 🚧      |
+| [Exercício – Adicionar um controlador](https://docs.microsoft.com/pt-br/learn/modules/build-web-api-aspnet-core/6-exercise-add-controller)            | 5 min  | 🚧      |
+| [Ações CRUD no ASP.NET Core](https://docs.microsoft.com/pt-br/learn/modules/build-web-api-aspnet-core/7-crud)                                         | 5 min  | 🚧      |
+| [Exercício – implementar operações CRUD](https://docs.microsoft.com/pt-br/learn/modules/build-web-api-aspnet-core/8-exercise-implement-crud)          | 10 min | 🚧      |
+| [Resumo](https://docs.microsoft.com/pt-br/learn/modules/build-web-api-aspnet-core/9-summary)                                                          | 1 min  | 🚧      |
 
 <h2>Introdução</h2>
 
