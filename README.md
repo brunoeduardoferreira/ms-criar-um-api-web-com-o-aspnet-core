@@ -85,35 +85,35 @@ Geralmente, uma API precisará fornecer serviços para algumas coisas diferentes
 
 Com o ASP.NET, você pode usar a mesma estrutura e padrões para criar páginas da Web e serviços. Isso significa que você pode reutilizar classes de modelo, a lógica de validação e até mesmo atender páginas da Web e serviços lado a lado no mesmo projeto. Essa abordagem traz vários benefícios.
 
-<h3>Benefício: serialização simples
+<h3>Benefício: serialização simples</h3>
 
 O ASP.NET foi projetado para experiências modernas na Web. Os pontos de extremidade serializam automaticamente suas classes para JSON formatado corretamente de maneira pré-configurada. Nenhuma configuração especial é necessária. É claro que a serialização pode ser personalizada para pontos de extremidade que têm requisitos exclusivos.
 
-<h3>Benefício: autenticação e autorização
+<h3>Benefício: autenticação e autorização</h3>
 
 Proteja os pontos de extremidade da API com suporte interno para JWT (Token Web JSON) padrão do setor. A autorização baseada em políticas oferece a flexibilidade de definir regras de controle de acesso poderosas, tudo no código.
 
-<h3>Benefício: roteamento com o código
+<h3>Benefício: roteamento com o código</h3>
 
 O ASP.NET permite que você defina rotas e verbos embutidos no código usando atributos. Os dados do caminho da solicitação, da cadeia de consulta e do corpo da solicitação são associados automaticamente aos parâmetros do método.
 
-<h3>Benefício: HTTPS por padrão
+<h3>Benefício: HTTPS por padrão</h3>
 
 O HTTPS é uma parte importante das APIs Web modernas e profissionais. Ele se baseia na criptografia de ponta a ponta para fornecer privacidade e garantir que as chamadas à API não sejam interceptadas e alteradas entre o cliente e o servidor. O ASP.NET tem suporte de primeira classe para HTTPS pronto para uso. Ele gera automaticamente um certificado de teste e o importa facilmente para habilitar o HTTPS local, para que você execute e depure aplicativos com segurança antes de publicá-los.
 
-<h3>Benefício: compartilhar código e conhecimento com aplicativos .NET
+<h3>Benefício: compartilhar código e conhecimento com aplicativos .NET</h3>
 
 Aproveite suas habilidades e o ecossistema do .NET para compartilhar lógica de sua API Web com outros aplicativos criados com .NET, incluindo dispositivos móveis, Web, desktop, serviços e muito mais.
 
-<h3>Testando APIs Web usando o REPL HTTP do .NET
+<h3>Testando APIs Web usando o REPL HTTP do .NET</h3>
 
 Ao desenvolver um site tradicional, você geralmente exibe e testa seu trabalho em um navegador da Web. As APIs da Web aceitam e retornam dados em vez de HTML, de modo que um navegador da Web não é a melhor ferramenta para testes de APIs Web. Uma das opções mais fáceis de usar para explorar e interagir com APIs Web é o REPL HTTP do .NET. REPL significa R ead-E val-P rint L oop. Trata-se de um modo simples e popular de criar ambientes de linha de comando interativos. Na próxima seção, você criará uma API Web simples e interagirá com ela usando o REPL HTTP do .NET.
 
 Verificar seu conhecimento
 1. Qual das alternativas a seguir não é um motivo para criar uma API Web usando ASP.NET Core?
 
-- [] - Fornecer um servidor de back-end para um front-end de SPA (aplicativo de página única), como Angular ou React.
-- [] - Fornecer dados a um aplicativo cliente móvel usando XML ou JSON.
+- [ ] - Fornecer um servidor de back-end para um front-end de SPA (aplicativo de página única), como Angular ou React.
+- [ ] - Fornecer dados a um aplicativo cliente móvel usando XML ou JSON.
 - [x] - Atender um aplicativo Web tradicional baseado em HTML.
 
 
