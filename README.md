@@ -109,7 +109,7 @@ Aproveite suas habilidades e o ecossistema do .NET para compartilhar lógica de 
 
 Ao desenvolver um site tradicional, você geralmente exibe e testa seu trabalho em um navegador da Web. As APIs da Web aceitam e retornam dados em vez de HTML, de modo que um navegador da Web não é a melhor ferramenta para testes de APIs Web. Uma das opções mais fáceis de usar para explorar e interagir com APIs Web é o REPL HTTP do .NET. REPL significa R ead-E val-P rint L oop. Trata-se de um modo simples e popular de criar ambientes de linha de comando interativos. Na próxima seção, você criará uma API Web simples e interagirá com ela usando o REPL HTTP do .NET.
 
-Verificar seu conhecimento
+<h3>Verificar seu conhecimento</h3>
 1. Qual das alternativas a seguir não é um motivo para criar uma API Web usando ASP.NET Core?
 
 - [ ] - Fornecer um servidor de back-end para um front-end de SPA (aplicativo de página única), como Angular ou React.
